@@ -4,7 +4,7 @@
 ## Projeto para o TCC-I da FATEC Pelotas Senac RS 
 
 **Autora**: Bruna Nobre Almeida<br>
-**Orientador:** 
+**Orientador:** Angelo Luz
 
 ### Proposta
 
